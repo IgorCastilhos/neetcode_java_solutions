@@ -14,3 +14,6 @@ public class contains_duplicate {
         return false;
     }
 }
+
+// Time complexity: O(n)
+// Space complexity: O(n)
